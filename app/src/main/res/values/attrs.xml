@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WritingBoardView">
+
+        <attr name="boardBackground" format="color"></attr><!--画板颜色-->
+        <attr name="paintColor" format="color"></attr>
+        <attr name="paintWidth" format="dimension"></attr>
+    </declare-styleable>
+</resources>
